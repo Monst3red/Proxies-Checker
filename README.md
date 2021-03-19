@@ -1,5 +1,5 @@
 ```
-open your powershell and put ``dotnet build`
+open your powershell and put `dotnet build`
 ```
 
 # Insert your proxies choice
